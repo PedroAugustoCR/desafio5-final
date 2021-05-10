@@ -1,6 +1,6 @@
 {
   "name": "bootcamp-full-stack-desafio-final",
-  "version": "12.9.1",
+  "version": "14.16.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {

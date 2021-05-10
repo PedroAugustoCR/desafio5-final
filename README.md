@@ -1,6 +1,6 @@
-# Controle Financeiro Pessoal
+# Desafio do Módulo 05 - Controle Financeiro
 
-O projeto é um desafio do curso [bootcamp online - desenvolvedor fullstack](https://www.igti.com.br/custom/bootcamp-desenvolvedor-full-stack/). O desafio consiste em desenvolver uma aplicação web para Controle Financeiro Pessoal, utilizando as tecnologias NodeJs e Express para a criação de API, MongoDB e Mongoose para persistir os dados, React no frontend consumindo a API desenvolvida, e publicar a solução no Heroku.
+O desafio consiste em desenvolver uma aplicação web para Controle Financeiro Pessoal, utilizando as tecnologias NodeJs e Express para a criação de API, MongoDB e Mongoose para persistir os dados, React no frontend consumindo a API desenvolvida, e publicar a solução no Heroku.
 
 **Funcionalidades:**
 
@@ -8,26 +8,18 @@ O projeto é um desafio do curso [bootcamp online - desenvolvedor fullstack](htt
 - Filtrar por descrição.
 - Incluir, editar e remover lançamentos.
 
-## 📷 App
-
-![](https://ik.imagekit.io/0hmjtnwyvn/bootcamp-igti/app-finapp_bq8S1njs5.gif)
-
-Quer saber mais sobre os módulos da formação? Acesse o meu repositório completo; [bootcamp-fullstack](https://github.com/mauricio-viana/bootcamp-fullstack) 👈
-
-## Gostou do projeto? Veja como utiliza-lo: 🚀
-
 **Pré requisitos: Node + Yarn**
 
 ```bash
 # Versões.
 $ node -v
-v12.9.1
+v14.16.1
 
 $ yarn -v
 1.22.4
 ```
 
-**Tem os requisitos? Então bora configurar:**
+**Para iniciar o projeto:**
 
 Backend
 
@@ -57,17 +49,3 @@ $ yarn
 # Inicie o front-end
 $ yarn start
 ```
-
-## 🔧 Tecnologias e bibliotecas utilizadas:
-
-- [NodeJs](https://nodejs.org/)
-- [ReactJs](https://reactjs.org/)
-- [MongoDB Atlas](https://www.mongodb.com/)
-- [Heroku](https://www.heroku.com/)
-
-## Autor
-
-👤 **Mauricio Viana**
-
-- Linkedin: [@mauricio-viana](https://www.linkedin.com/in/mauricio-viana)
-- Github: [@mauricio-viana](https://github.com/mauricio-viana)
