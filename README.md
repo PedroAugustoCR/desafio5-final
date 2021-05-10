@@ -1,4 +1,4 @@
-# Desafio do Módulo 05 - Controle Financeiro
+# Desafio Final - Controle Financeiro
 
 O desafio consiste em desenvolver uma aplicação web para Controle Financeiro Pessoal, utilizando as tecnologias NodeJs e Express para a criação de API, MongoDB e Mongoose para persistir os dados, React no frontend consumindo a API desenvolvida, e publicar a solução no Heroku.
 
